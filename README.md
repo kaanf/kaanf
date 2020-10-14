@@ -34,12 +34,10 @@ _İyi bir uygulama ile kötü bir uygulama arasındaki fark genellikle kullanıc
 
 </details>
 
-<br>
-
 <details>
 <summary><b>🔨 Languages & Tools</b></summary>
 <br>
  
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp; ![Linux](https://img.shields.io/badge/-Linux-red?logo=linux&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp; ![Linux](https://img.shields.io/badge/-Linux-red?logo=linux&style=social)&nbsp;&nbsp; ![Figma](https://img.shields.io/badge/-Figma-red?logo=figma&style=social)&nbsp;&nbsp; ![Adobe XD](https://img.shields.io/badge/-XD-red?logo=adobe-xd&style=social)&nbsp;&nbsp; ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-black?logo=adobe-photoshop&style=social)&nbsp;&nbsp;
 
 </details>
