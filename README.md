@@ -9,7 +9,7 @@ Information System Engineering student at [Atılım University](https://www.unib
 💬 Brainstorm with me over tech, algorithms and music. 
 📫 How to reach me: `iletisim@kaanf.com`
 
-I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **CentOS** :centos:.
+I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **CentOS** :linux:.
 
 :pencil: **Weekly development breakdown**
 ```text
