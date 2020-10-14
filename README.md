@@ -5,8 +5,8 @@
 Information System Engineering student at [Atılım University](https://www.atilim.edu.tr/en) from [Ankara, Turkey](https://www.google.com/maps/place/T%C3%BCrkiye/@39.0015493,30.6894055,6z/data=!3m1!4b1!4m5!3m4!1s0x14b0155c964f2671:0x40d9dbd42a625f2a!8m2!3d38.963745!4d35.243322) :tr:. I have some works with **JavaScript**, **Java** and **Android**. Also, I have a strong passion with _metal music_, _project management_, _UI/UX design_ and _cognitive psychology_. Contact me if you have same interesting or some questions!
 
 🔭 Currently studying **Information Systems Engineering** at Atılım University. <br>
-🌱 Currently learning **Docker**, **Terraform** and **Bash**.
-💬 Brainstorm with me over tech, algorithms and music. 
+🌱 Currently learning **Docker**, **Terraform** and **Bash**. <br>
+💬 Brainstorm with me over tech, algorithms and music. <br>
 📫 How to reach me: `iletisim@kaanf.com`
 
 I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **CentOS**.
