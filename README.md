@@ -2,7 +2,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange) ![CSS](https://img.shields.io/badge/CSS-Expert-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) ![Java](https://img.shields.io/badge/Java-Intermediate-red) ![Android](https://img.shields.io/badge/Android-Intermediate-green) ![OS](https://img.shields.io/badge/OS-Linux-black)
 
-Information System Engineer from [Ankara, Turkey](https://www.google.com/maps/place/T%C3%BCrkiye/@39.0015493,30.6894055,6z/data=!3m1!4b1!4m5!3m4!1s0x14b0155c964f2671:0x40d9dbd42a625f2a!8m2!3d38.963745!4d35.243322) :tr:. I have some works with **JavaScript**, **Java** and **Android**. Also, I have a strong passion with _metal music_, _project management_, _UI/UX design_ and _cognitive psychology_. Contact me if you have same interesting or some questions!
+Information Systems Engineer from [Ankara, Turkey](https://www.google.com/maps/place/T%C3%BCrkiye/@39.0015493,30.6894055,6z/data=!3m1!4b1!4m5!3m4!1s0x14b0155c964f2671:0x40d9dbd42a625f2a!8m2!3d38.963745!4d35.243322) :tr:. I have some works with **JavaScript**, **Java** and **Android**. Also, I have a strong passion with _metal music_, _project management_, _UI/UX design_ and _cognitive psychology_. Contact me if you have same interesting or some questions!
 
 🔭 Currently studying **Information Systems Engineering** at Atılım University. <br>
 🌱 Currently learning **Docker**, **Terraform** and **Bash**. <br>
