@@ -12,9 +12,9 @@ I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **Cen
 
 :pencil: **Weekly development breakdown**
 ```text
-Shell       9 hrs 30 mins   ███████████████░░░░░░░░░░   54.28 % 
-Javascript  3 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   19.04 % 
-CSS         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   6.66 % 
+Bash        9 hrs 30 mins   ███████████████░░░░░░░░░░   54.28 % 
+Python      3 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   19.04 % 
+Javascript  1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   6.66 % 
 Markdown    3 hr 30 mins    ███████░░░░░░░░░░░░░░░░░░   20.02 % 
 ```
 <details>
