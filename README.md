@@ -8,7 +8,7 @@ Information Systems Engineer from [Ankara, Turkey](https://www.google.com/maps/p
 💬 Brainstorm with me over tech, algorithms and music. <br>
 📫 How to reach me: `iletisim@kaanf.com`
 
-I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **CentOS**.
+I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **Arch Linux**.
 
 :pencil: **Weekly development breakdown**
 ```text
