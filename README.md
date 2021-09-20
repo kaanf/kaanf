@@ -9,14 +9,6 @@ Information Systems Engineer from [Ankara, Turkey](https://www.google.com/maps/p
 📫 How to reach me: `iletisim@kaanf.com`
 
 I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **Arch Linux**.
-
-:pencil: **Weekly development breakdown**
-```text
-Bash        9 hrs 30 mins   ███████████████░░░░░░░░░░   54.28 % 
-Python      3 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   19.04 % 
-Javascript  1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   6.66 % 
-Markdown    3 hr 30 mins    ███████░░░░░░░░░░░░░░░░░░   20.02 % 
-```
 <details>
 
 <summary><b>🦄 My Latest Posts</b></summary>
