@@ -6,7 +6,6 @@ Information Systems Engineer from [Ankara, Turkey](https://www.google.com/maps/p
 
 🌱 Currently learning **Docker**, **Terraform** and **Bash**. <br>
 💬 Brainstorm with me over tech, algorithms and music. <br>
-📫 How to reach me: `iletisim@kaanf.com`
 
 I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **Arch Linux**.
 <details>
