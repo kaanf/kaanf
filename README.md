@@ -8,21 +8,6 @@ Information Systems Engineer from [Ankara, Turkey](https://www.google.com/maps/p
 💬 Brainstorm with me over tech, algorithms and music. <br>
 
 I use **Atom** :atom: and push my code to **GitHub** :octocat:, also I use **Arch Linux**.
-<details>
-
-<summary><b>🦄 My Latest Posts</b></summary>
-<br>
-
-- 🎵 [Haftalık Albüm İncelemesi #1 | Creed - Full Circle](https://kaanf.com/blog/Haftanin-albumu-review-1)
-_Creed dinlemeye yanlış hatırlamıyorsam 2018’in Ocak ayında başladım. O zamanlar çoğu gece yeni müzikler keşfetmek için Youtube bataklığına batardım..._
-- ⚫ [Linux'ta Kernel & Shell'in kısa bir özeti](https://kaanf.com/blog/Inside-Linux)
-_Linux çekirdeği, -diğer adıyla kernel- bir Linux sisteminde çalışan en alt seviye yazılımdır. Linux sisteminin özü diyebiliriz. Sistemin başlangıcında (boot esnasında) yüklenir..._
-- 📍 [Kullanıcının İhtiyaçlarını Anlamak](https://kaanf.com/blog/Bolum-2-Kullanici-Ihtiyaclarini-Anlamak)
-_Tahmin edilebilirlik, kullanıcı deneyiminin temel ilkelerinden bir tanesidir. İşler kullanıcının tahmin ettiği şekilde yürüdüğünde, uygulama üzerinde daha güçlü bir kontrol duygusu hissederler._
-- 🦄 [Mobil Uygulama Tasarımına Giriş](https://kaanf.com/blog/Etkili-UIUX-nasil-olmali)
-_İyi bir uygulama ile kötü bir uygulama arasındaki fark genellikle kullanıcı deneyiminin (UX) kalitesidir. İyi bir kullanıcı deneyimi, başarılı uygulamaları başarısız olanlardan ayıran şeydir._
-
-</details>
 
 <details>
 <summary><b>🔨 Languages & Tools</b></summary>
