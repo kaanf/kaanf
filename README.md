@@ -1,4 +1,4 @@
-hey, i'm kaan. i live in Prague and mostly write mobile apps.
+hey, i'm kaan. i live in prague and mostly write mobile apps.
 
 these days that means kotlin multiplatform for android and ios, and spring boot when the app needs a backend. lately i've also been making small mac apps for myself.
 
