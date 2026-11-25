@@ -1,12 +1,16 @@
 hey, i'm kaan. i live in prague and mostly write mobile apps.
 
-these days that means kotlin multiplatform for android and ios, and spring boot when the app needs a backend. lately i've also been making small mac apps for myself.
+these days that means kotlin multiplatform for android and ios, spring boot for backends, and swiftui for mac apps. i'm building tools for hospitality, turning ideas into software specs, and making the mac's notch a little more useful.
 
 ### what i'm working on
 
-**[tuno](https://github.com/kaanf/tuno)**: a now playing player that sits in the mac notch. shows the album art and a little waveform, and opens into a player when you hover over it. works with apple music, spotify and the browser.
+**[onemind](https://github.com/kaanf/onemind)**: a back office app for bars and restaurants, on your phone. kotlin multiplatform app with a spring boot backend.
 
-**[jojo](https://github.com/kaanf/jojo)**: a local tool for my mac that runs coding agents in separate git worktrees so i can review what they did. rust core, swiftui app. very much in progress.
+**[mel](https://github.com/kaanf/mel)**: a native mac app that turns an idea into a build-ready spec using the coding agent already installed on your mac. the output is plain markdown: product, requirements, design and tasks. still in development, with the specs in the repo.
+
+**[perch](https://github.com/kaanf/perch)**: an apple tv remote that lives in the mac notch. control playback, see what's playing, and type on the tv with your mac keyboard. the swift package that talks to the tv lives in [perch-core](https://github.com/kaanf/perch-core).
+
+**[tuno](https://github.com/kaanf/tuno)**: a now playing player that sits in the mac notch. shows the album art and a little waveform, and opens into a player when you hover over it. works with apple music, spotify and the browser.
 
 **[crew](https://github.com/kaanf/crew-kmp)**: an app for real-life events. you get a ticket, check in with a qr code at the venue, then play games against other people there. kmp + compose multiplatform.
 
